@@ -1,19 +1,8 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# People Counter
+This is a simple people-counting app that can be used for counting the number of people entering or leaving any place. 
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+# About 
+This project uses very basic concepts of HTML, CSS, and JAVASCRIPT. As a beginner to learn these concepts, users can build such applications to get handy on javascript.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
 Happy Coding!
